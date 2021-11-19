@@ -1,0 +1,40 @@
+body{background-image:url(imagenes2/fondocontacto.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+a:link {
+border-style:outset;
+background-color:#F0E68C;
+color: #228B22;
+padding: 50px 75px;
+font-family:Fantasy;
+font-size:130%;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+footer{font-family:Fantasy;
+font-size:200%;
+color:#D3D3D3;
+ background-color:#0e7006;
+}
+h2{font-size:350%;
+background-color:#0e7006; 
+color: #D3D3D3;
+width:100%;
+text-align: center;
+padding: 80px 10px;
+border-style:outset;
+font-family:Verdana;
+}
+form{font-family:Verdana;
+color: #ffffff;
+}
+#imagen{float:left;
+    width:300px;
+    height:300px;}
+#comentarios{width: 500px;}
+.boton{background-color:#F0E68C;}
+a:hover, a:active {
+background-color: 	#7fa143;
+}

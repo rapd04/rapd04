@@ -1,0 +1,58 @@
+body{background-image:url(imagenes2/fondodefinicion.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    }
+    h2{font-size:350%;
+    background-color:#6B8E23; 
+    color: #D3D3D3;
+    width:100%;
+    text-align: center;
+    padding: 80px 10px;
+    border-style:outset;
+    font-family:Verdana;
+    }
+    aside{
+    text-align:left;
+    width:40%;
+    float:right;}
+    p{font-size:190%;
+    background-color:#FA8072; 
+    color: #D3D3D3;
+    font-family:Verdana;
+    }
+    #subtitulo{font-size:190%;
+    background-color:#FA8072; 
+    color: #D3D3D3;
+    font-family:Verdana;
+    text-align: center;
+    }
+    a:link {
+    border-style:outset;
+    background-color: #FA8072;
+    color: #228B22;
+    padding: 50px 75px;
+    font-family:Fantasy;
+    font-size:130%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
+    article{ color:#FFF8DC;
+    font-size:200%;
+    font-family:verdana;
+    background-color:#6B8E23;
+    width: 58%;
+    }
+    #texto2{ color:#FFF8DC;
+        font-size:200%;
+        font-family:verdana;
+        background-color:#6B8E23;
+        width:100%;
+        }
+    a:hover, a:active {
+    background-color: #FFFFFF;
+    }
+    footer{font-family:Fantasy;
+        font-size:200%;
+        color:rgb(35, 35, 131);
+        background-color:#FA8072};

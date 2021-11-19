@@ -1,0 +1,44 @@
+
+#título{font-size:350%;
+background-color:#581845; 
+color: #D3D3D3;
+width:100%;
+text-align: center;
+padding: 80px 10px;
+border-style:outset;
+font-family:Verdana;
+}
+body{background-repeat:no-repeat;
+background-size:cover;
+background-image:url(imagenes2/fondoinicio.png)
+}
+.portada{color:#FFF8DC;
+font-size:276%;
+font-family:Verdana;
+background-color:#581845;
+width:70%
+text-align center;
+}
+a:link{
+border-style:outset;
+background-color: #D3D3D3;
+color:#000000;
+padding: 50px 75px;
+font-family:Fantasy;
+font-size:130%;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+aside,img{align-content:right;
+    float: right;
+    width:40%
+}
+a:hover, a:active {
+background-color: green;
+}
+#pie{font-family:Fantasy;
+    font-size:200%;
+    color:rgb(35, 35, 131);
+    background-color: #D3D3D3;
+}

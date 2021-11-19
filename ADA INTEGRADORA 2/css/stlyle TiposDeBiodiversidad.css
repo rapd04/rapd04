@@ -1,0 +1,60 @@
+body{background-image:url(imagenes2/fondotipos.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    }
+    table{
+    font-family:Verdana;
+    border-style:solid;
+    width:100%;
+    }
+    th{
+    font-family:Verdana;
+    border-style:solid;
+    }
+    td {
+    font-family:Verdana;
+    border-style:solid;
+    }
+    .tipos{
+        font-family:Verdana;
+        border-style:solid;
+        font-size:160%;
+        text-align:center;
+        }
+    h2{font-size:350%;
+    background-color:#C0C0C0; 
+    color:black;
+    width:100%;
+    text-align: center;
+    padding: 80px 10px;
+    border-style:outset;
+    font-family:Verdana;
+    }
+    #titulo{
+        font-family:Verdana;
+        border-style:solid;
+        width:27%;
+        }
+    .subtitulo{
+        font-family:Verdana;
+        border-style:solid;
+        width:19%;
+        }
+    a:link {
+    border-style:outset;
+    background-color: #87CEFA;
+    color: #228B22;
+    padding: 50px 75px;
+    font-family:fantasy;
+    font-size:130%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
+    a:hover, a:active {
+    background-color: #000000;
+    }
+    footer{font-family:Fantasy;
+        font-size:200%;
+        color:rgb(35, 35, 131);
+        background-color:#87CEFA};
